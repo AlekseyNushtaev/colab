@@ -1,3 +1,1 @@
 # colaboration
-
-git is power
